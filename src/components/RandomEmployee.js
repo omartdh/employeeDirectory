@@ -12,7 +12,6 @@ class RandomEmployee extends Component {
       const response = await fetch(url);
       const data = await response.json();
       this.setState({results: data.results[0], Loading: false})
-      console.log(data)
     }
 
 
