@@ -27,7 +27,7 @@ License for this app is : MIT
 
 ## App-Link:
 
-- [app link]()
+- [app link](https://omartdh.github.io/employeeDirectory/)
 
 ## Demo:
 
